@@ -1,6 +1,6 @@
 # cox
 
-Repository used to gather project submissions for CS4500 - Software Development and is maintained by Kaylyn Goh and Wanning Zhou.
+Repository used to gather project submissions for CS4500 - Software Development and is maintained by Kaylyn Goh.
 
 ## Folder Structure
 
