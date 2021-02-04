@@ -1,0 +1,2 @@
+[1,{ "players": [{"color": "red", "score":3, "places": [[0,1]]},
+  {"color": "black", "score":5, "places":[[2,0]]}], "board": [[3,4],[4],[4,4],[1],[2,3],[1]]}]

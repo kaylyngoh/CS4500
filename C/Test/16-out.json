@@ -1,0 +1,2 @@
+{"count":16,"seq":[1,2,3,4,5,6,7,{"a":3},5,{"cool":8},"string","one",17,"apple",5,{"xyz":"abc"}]}
+[16,{"xyz":"abc"},5,"apple",17,"one","string",{"cool":8},5,{"a":3},7,6,5,4,3,2,1]

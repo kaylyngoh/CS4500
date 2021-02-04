@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="test2:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8768cae6-8e48-44f8-b855-558a597174e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/xjson copy" />
+  </component>
+  <component name="ProjectId" id="1hfHdGOMzzLjhFaooqUfbRpHdeF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Xjson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Xjson" />
+      <module name="test2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Xjson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8768cae6-8e48-44f8-b855-558a597174e6" name="Default Changelist" comment="" />
+      <created>1600395311938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600395311938</updated>
+      <workItem from="1600395315941" duration="3577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#Project_Structure" timestamp="1600396746282">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#Project_Structure/-508.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600395348981" />
+    <state x="320" y="127" key="#Project_Structure/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600396746282" />
+    <state x="752" y="118" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600397894442">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="752" y="118" key="#com.intellij.ide.util.TreeClassChooserDialog/-508.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600395833237" />
+    <state x="752" y="118" key="#com.intellij.ide.util.TreeClassChooserDialog/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600397894442" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601821180321">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-508.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600395652698" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400072172" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601821180321" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601821180320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-508.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600395652697" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400072171" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601821180320" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601821180320">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-508.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600395652696" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400072170" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601821180320" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601821180321">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-508.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600395652697" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400072171" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601821180321" />
+    <state width="1398" height="290" key="GridCell.Tab.1.bottom" timestamp="1600400049205">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.1.bottom/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400049205" />
+    <state width="1398" height="290" key="GridCell.Tab.1.center" timestamp="1600400049204">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.1.center/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400049204" />
+    <state width="1398" height="290" key="GridCell.Tab.1.left" timestamp="1600400049204">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.1.left/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400049204" />
+    <state width="1398" height="290" key="GridCell.Tab.1.right" timestamp="1600400049205">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="290" key="GridCell.Tab.1.right/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600400049205" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1600397910166">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="208" y="43" key="SettingsEditor/-508.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600395842176" />
+    <state x="208" y="43" key="SettingsEditor/0.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1600397910166" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Xjson.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

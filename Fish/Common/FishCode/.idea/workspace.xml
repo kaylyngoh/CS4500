@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fa2805e-3500-4c55-aa14-b3b41a5222c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ioq2Ho2fQW3HyYBP2GyQXZaG9y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/ExternalModules" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StrategyTest">
+    <configuration name="xtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xtest" />
+      <module name="Fish(JSON)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InternalPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fish(JSON)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InternalPlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefereeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fish(JSON)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RefereeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fish(JSON)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrategyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTest.minMaxAction4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fish(JSON)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StrategyTest" />
+      <option name="METHOD_NAME" value="minMaxAction4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StrategyTest" />
+        <item itemvalue="JUnit.StrategyTest.minMaxAction4" />
+        <item itemvalue="Application.xtest" />
+        <item itemvalue="JUnit.InternalPlayerTest" />
+        <item itemvalue="JUnit.RefereeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fa2805e-3500-4c55-aa14-b3b41a5222c6" name="Default Changelist" comment="" />
+      <created>1602584083464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602584083464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="82" key="#Project_Structure" timestamp="1602587730289">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="320" y="82" key="#Project_Structure/0.0.1440.834@0.0.1440.834" timestamp="1602587730289" />
+    <state x="458" y="190" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603229190781">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="458" y="190" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.834@0.0.1440.834" timestamp="1603229190781" />
+    <state x="100" y="100" width="1240" height="634" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604505531778">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="100" y="100" width="1240" height="634" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.834@0.0.1440.834" timestamp="1604505531778" />
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1604496081420">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="533" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1440.834@0.0.1440.834" timestamp="1604496081420" />
+    <state x="508" y="283" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605115188140">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="508" y="283" width="423" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.834@0.0.1440.834" timestamp="1605115188140" />
+    <state x="458" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603914266526">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="458" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.834@0.0.1440.834" timestamp="1603914266526" />
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom" timestamp="1605116680602">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.bottom/0.0.1440.834@0.0.1440.834" timestamp="1605116680602" />
+    <state width="1398" height="170" key="GridCell.Tab.0.center" timestamp="1605116680600">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.center/0.0.1440.834@0.0.1440.834" timestamp="1605116680600" />
+    <state width="1398" height="170" key="GridCell.Tab.0.left" timestamp="1605116680600">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.left/0.0.1440.834@0.0.1440.834" timestamp="1605116680600" />
+    <state width="1398" height="170" key="GridCell.Tab.0.right" timestamp="1605116680601">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state width="1398" height="170" key="GridCell.Tab.0.right/0.0.1440.834@0.0.1440.834" timestamp="1605116680601" />
+    <state x="292" y="0" key="SettingsEditor" timestamp="1605039911894">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="292" y="0" key="SettingsEditor/0.0.1440.834@0.0.1440.834" timestamp="1605039911894" />
+    <state x="521" y="202" key="chooseDestDirectoryDialog" timestamp="1602789305547">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="521" y="202" key="chooseDestDirectoryDialog/0.0.1440.834@0.0.1440.834" timestamp="1602789305547" />
+    <state x="413" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1605199335586">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="413" y="249" key="com.intellij.ide.util.TipDialog/0.0.1440.834@0.0.1440.834" timestamp="1605199335586" />
+    <state x="375" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603387907332">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="375" y="39" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.834@0.0.1440.834" timestamp="1603387907332" />
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1604616997023">
+      <screen x="0" y="0" width="1440" height="834" />
+    </state>
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.0.1440.834@0.0.1440.834" timestamp="1604616997023" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fish_JSON_$Fish.ic" NAME="Fish Coverage Results" MODIFIED="1603112069824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
