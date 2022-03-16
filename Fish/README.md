@@ -2,7 +2,7 @@
 
 This folder will contain all the code needed to run our Fish game, a project for CS4500 Software Development. 
 
-Fish is a board game that is loosely based on "Hey, that's my fish". More information on the game can be found [here](https://www.ccs.neu.edu/home/matthias/4500-f20/fish.html).
+Fish is a board game that is loosely based on "Hey, that's my fish". More information on the game can be found [here](https://felleisen.org/matthias/4500-f20/fish.html).
 
 ## Folder structure:
 
