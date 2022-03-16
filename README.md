@@ -23,16 +23,16 @@ Contains the to-do list, reworked list and bugs list that was worked on to reduc
 Contains the test harness (xref) and test cases for the test harness for Project Fish. Test cases can be found in the folder Tests.
 
 ### B
-Contains the submission for TAHBPL Assignment [B](https://www.ccs.neu.edu/home/matthias/4500-f20/B.html).
+Contains the submission for TAHBPL Assignment [B](https://felleisen.org/matthias/4500-f20/B.html).
 
 ### C
-Contains the submission for TAHBPL Assignment [C](https://www.ccs.neu.edu/home/matthias/4500-f20/C.html).
+Contains the submission for TAHBPL Assignment [C](https://felleisen.org/matthias/4500-f20/C.html).
 
 ### D
-Contains the submission for TAHBPL Assignment [D](https://www.ccs.neu.edu/home/matthias/4500-f20/D.html).
+Contains the submission for TAHBPL Assignment [D](https://felleisen.org/matthias/4500-f20/D.html).
 
 ### E
-Contains the submission for TAHBPL Assignment [E](https://www.ccs.neu.edu/home/matthias/4500-f20/E.html).
+Contains the submission for TAHBPL Assignment [E](https://felleisen.org/matthias/4500-f20/E.html).
 
 ### Fish
-Contains the submission for the Project [Fish](https://www.ccs.neu.edu/home/matthias/4500-f20/fish.html).
+Contains the submission for the Project [Fish](https://felleisen.org/matthias/4500-f20/fish.html).
